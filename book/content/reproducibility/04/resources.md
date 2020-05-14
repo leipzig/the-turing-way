@@ -37,3 +37,4 @@ If you want to start learning hands-on practices, we recommend reading the Versi
 
 ### Other useful links
 * Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/
+* Leipzig, J (2020). Awesome Reproducible Research: A curated list of reproducible research case studies, projects, tutorials, and media. Github repo. https://github.com/leipzig/awesome-reproducible-research
